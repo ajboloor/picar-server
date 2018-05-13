@@ -25,3 +25,8 @@ A [Raspberry Pi](https://www.raspberrypi.org/) is a credit card sized computer t
     * Eject SD card and put it into the Raspberry Pi. 
 4. Connect the mouse, keyboard and monitor to the Raspberry Pi. Finally connect the power cable to turn on the Raspberry Pi.
 
+
+5. The default login credentials for the Raspberry Pi 
+re:
+* username: pi
+* password: raspberry
