@@ -46,9 +46,9 @@ sudo reboot now
 ```
 9. Get the local ip address of your Pi using:
 ```
-ifconfig
+hostname -I
 ```
-   * Under eth0 >> inet, you will find your Pi's local IP (eg: `192.168.1.123`, not the 127.0.0.1 one)
+   * You will find your Pi's local IP (eg: `192.168.1.123`)
    * Alternatively you can navigate to the router admin page to check the IP addresses of connected devices.
 10. On your laptop, connect to the router and use the following instructions based on your OS:
 * Windows:
