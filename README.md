@@ -86,7 +86,7 @@ mkdir your_name
     nano helloworld.py
     ```
     * Copy the following into the script:
-    ```
+    ```python
     print("Hello World!")
     ```
     * Use Ctrl+X >> Y >> Enter to save the script
